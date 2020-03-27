@@ -14,5 +14,4 @@ func dev() {
 func newDay() {
 	fmt.Println("new day from master")
 	fmt.Println("update by dev")
-	fmt.Println("update by dev again")
 }
