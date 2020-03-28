@@ -29,3 +29,7 @@ func three() {
 func four() {
 	fmt.Println("add by dev")
 }
+
+func five() {
+	fmt.Println("add by dev")
+}
