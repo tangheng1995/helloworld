@@ -20,3 +20,12 @@ func one() {
 func two() {
 	fmt.Println("add by master")
 }
+
+func three() {
+	fmt.Println("add by dev")
+}
+
+// add four
+func four() {
+	fmt.Println("add by dev")
+}
